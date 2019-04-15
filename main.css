@@ -12,14 +12,14 @@
   display:flex;
   align-items:center;
   font-size:100px;
-  font-weight:125;
+  font-weight:300;
   color:green;
 }
 #thirdfav{
   display:flex;
   align-items:center;
   font-size:150px;
-  font-weight:130;
+  font-weight:500;
   color:orange;
 }
 #forthfav{
@@ -36,7 +36,7 @@
 #firstquote{
   color:black;
   font-size:30px;
-  font-family:times new roman;
+  font-family:"times new roman";
 }
 #secondquote{
   color:red;
