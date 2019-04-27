@@ -13,21 +13,21 @@
   align-items:center;
   font-size:75px;
   font-weight:100;
-  color:green;
+  color:blue;
 }
 #thirdfav{
   display:flex;
   align-items:center;
   font-size:75px;
   font-weight:100;
-  color:orange;
+  color:blue;
 }
 #forthfav{
   display:flex;
   align-items:center;
   font-size:75px;
   font-weight:100;
-  color:red;
+  color:blue;
   }
 #Quotes{
   align-items:center;
