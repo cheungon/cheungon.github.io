@@ -11,22 +11,22 @@
 #secondfav{
   display:flex;
   align-items:center;
-  font-size:100px;
-  font-weight:300;
+  font-size:75px;
+  font-weight:100;
   color:green;
 }
 #thirdfav{
   display:flex;
   align-items:center;
-  font-size:150px;
-  font-weight:500;
+  font-size:75px;
+  font-weight:100;
   color:orange;
 }
 #forthfav{
   display:flex;
   align-items:center;
-  font-size:110px;
-  font-weight: 200;
+  font-size:75px;
+  font-weight:100;
   color:red;
   }
 #Quotes{
@@ -35,21 +35,68 @@
 }
 #firstquote{
   color:black;
-  font-size:30px;
-  font-family:"times new roman";
+  font-size:25px;
+  font-family:times new roman;
 }
 #secondquote{
   color:red;
   font-size:25px;
-  font-family:calibri;
+  font-family:times new roman;
 }
 #thirdquote{
   color:green;
-  font-size:20px;
-  font-family:arial;
+  font-size:25px;
+  font-family:times new roman;
 }
 
 
+#firstfav{
+  display:flex;
+  align-items:center;
+  font-size:75px;
+  font-weight:100;
+  color:blue;
+}
+#secondfav{
+  display:flex;
+  align-items:center;
+  font-size:75px;
+  font-weight:100;
+  color:green;
+}
+#thirdfav{
+  display:flex;
+  align-items:center;
+  font-size:75px;
+  font-weight:100;
+  color:orange;
+}
+#forthfav{
+  display:flex;
+  align-items:center;
+  font-size:75px;
+  font-weight:100;
+  color:red;
+  }
+#Quotes{
+  align-items:center;
+  font-size:bold;
+}
+#firstquote{
+  color:black;
+  font-size:25px;
+  font-family:times new roman;
+}
+#secondquote{
+  color:red;
+  font-size:25px;
+  font-family:times new roman;
+}
+#thirdquote{
+  color:green;
+  font-size:25px;
+  font-family:times new roman;
+}
 
 
 
