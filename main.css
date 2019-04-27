@@ -50,55 +50,6 @@
 }
 
 
-#firstfav{
-  display:flex;
-  align-items:center;
-  font-size:75px;
-  font-weight:100;
-  color:blue;
-}
-#secondfav{
-  display:flex;
-  align-items:center;
-  font-size:75px;
-  font-weight:100;
-  color:green;
-}
-#thirdfav{
-  display:flex;
-  align-items:center;
-  font-size:75px;
-  font-weight:100;
-  color:orange;
-}
-#forthfav{
-  display:flex;
-  align-items:center;
-  font-size:75px;
-  font-weight:100;
-  color:red;
-  }
-#Quotes{
-  align-items:center;
-  font-size:bold;
-}
-#firstquote{
-  color:black;
-  font-size:25px;
-  font-family:times new roman;
-}
-#secondquote{
-  color:red;
-  font-size:25px;
-  font-family:times new roman;
-}
-#thirdquote{
-  color:green;
-  font-size:25px;
-  font-family:times new roman;
-}
-
-
 
 
 
